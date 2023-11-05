@@ -137,7 +137,7 @@ export default function Home() {
               height: "100%",
             }}
             maxWidth={"99%"}
-            minWidth={"300px"}
+            minWidth={"400px"}
             bounds={"parent"}
             enable={{
               top: false,
