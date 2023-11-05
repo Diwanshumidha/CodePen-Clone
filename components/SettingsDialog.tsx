@@ -64,7 +64,7 @@ const SettingsDialog = ({ children }: { children: React.ReactNode }) => {
               </div>
             </div>
             <div className=" space-y-4">
-              <div className="grid w-full max-w-sm items-center gap-2">
+              <div className="grid w-full  items-center gap-2">
                 <Label htmlFor="classes">
                   Add Classes to {"<"}html{">"}:{" "}
                 </Label>
@@ -77,7 +77,7 @@ const SettingsDialog = ({ children }: { children: React.ReactNode }) => {
                 />
               </div>
 
-              <div className="grid w-full max-w-sm items-center gap-2">
+              <div className="grid w-full  items-center gap-2">
                 <Label htmlFor="classes">Font Size:</Label>
                 <Input
                   value={fontSize}
@@ -86,7 +86,7 @@ const SettingsDialog = ({ children }: { children: React.ReactNode }) => {
                 />
               </div>
 
-              <div className="grid w-full max-w-sm items-center gap-2">
+              <div className="grid w-full  items-center gap-2">
                 <Label htmlFor="title">Title</Label>
                 <Input
                   value={metatags.title}
@@ -97,7 +97,7 @@ const SettingsDialog = ({ children }: { children: React.ReactNode }) => {
                 />
               </div>
 
-              <div className="grid w-full max-w-sm items-center gap-2">
+              <div className="grid w-full  items-center gap-2">
                 <Label htmlFor="classes">Description</Label>
                 <Textarea
                   value={metatags.description}
