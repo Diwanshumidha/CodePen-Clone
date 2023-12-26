@@ -2,6 +2,11 @@
 
 Welcome to the CodePen Clone built with Next.js! This project aims to replicate the functionality of CodePen, providing a platform for developers to create, share, and explore front-end code snippets.
 
+![image](https://github.com/Diwanshumidha/CodePen-Clone/assets/125127610/a6d6b9c1-11c9-4e17-a572-70e36cbfdef1)
+![image](https://github.com/Diwanshumidha/CodePen-Clone/assets/125127610/f9a95b0d-98b5-4bd8-8ef3-291bb922c9b1)
+
+
+
 ## Live Demo
 Check out the live demo of the CodePen Clone: [CodePen Clone Demo](https://codepen-ide.vercel.app/)
 
