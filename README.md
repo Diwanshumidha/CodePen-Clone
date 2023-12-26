@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# CodePen Clone with Next.js
 
-## Getting Started
+Welcome to the CodePen Clone built with Next.js! This project aims to replicate the functionality of CodePen, providing a platform for developers to create, share, and explore front-end code snippets.
 
-First, run the development server:
+## Live Demo
+Check out the live demo of the CodePen Clone: [CodePen Clone Demo](https://codepen-ide.vercel.app/)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Contribution Rules
+We appreciate and welcome contributions from the community. To contribute to this project, please follow these guidelines:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix: `git checkout -b feature/your-feature` or `git checkout -b bugfix/your-bug-fix`.
+3. Make your changes and commit them with clear and concise messages.
+4. Push your changes to your fork: `git push origin feature/your-feature` or `git push origin bugfix/your-bug-fix`.
+5. Submit a pull request, explaining the changes you made and why they are necessary.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Please ensure that your code follows the project's coding standards and conventions.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Local Setup
+To run the CodePen Clone locally, follow these steps:
 
-## Learn More
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/your-username/codepen-clone.git
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+2. Navigate to the project directory:
+   ```bash
+   cd codepen-clone
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
-## Deploy on Vercel
+5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to view the application.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Open-source License
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms outlined in the license.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Happy coding! 🚀
